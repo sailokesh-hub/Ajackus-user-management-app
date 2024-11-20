@@ -10,7 +10,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename="/Ajackus-user-management-app">
+    <BrowserRouter basename="/Ajackus-user-management-app/users">
       <App />
     </BrowserRouter>
   </React.StrictMode>

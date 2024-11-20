@@ -1,3 +1,8 @@
+## Live Demo
+
+Check out the live demo of the app here:  
+[**User Management App**](https://sailokesh-hub.github.io/Ajackus-user-management-app/users)
+
 # **User Management App**
 
 A simple and intuitive User Management system built using **ReactJS**, **React Router**, and **Bootstrap**. This app allows users to view, add, edit, and delete user records. It interacts with a mock REST API provided by JSONPlaceholder for demonstration purposes.

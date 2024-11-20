@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ajackus-user-management-app/static/css/main.79d19d76.css",
-    "main.js": "/Ajackus-user-management-app/static/js/main.0d54bf55.js",
+    "main.js": "/Ajackus-user-management-app/static/js/main.2b7b71b9.js",
     "static/js/453.ed3810f9.chunk.js": "/Ajackus-user-management-app/static/js/453.ed3810f9.chunk.js",
     "index.html": "/Ajackus-user-management-app/index.html",
     "main.79d19d76.css.map": "/Ajackus-user-management-app/static/css/main.79d19d76.css.map",
-    "main.0d54bf55.js.map": "/Ajackus-user-management-app/static/js/main.0d54bf55.js.map",
+    "main.2b7b71b9.js.map": "/Ajackus-user-management-app/static/js/main.2b7b71b9.js.map",
     "453.ed3810f9.chunk.js.map": "/Ajackus-user-management-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79d19d76.css",
-    "static/js/main.0d54bf55.js"
+    "static/js/main.2b7b71b9.js"
   ]
 }
